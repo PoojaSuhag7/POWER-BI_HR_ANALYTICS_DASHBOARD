@@ -8,7 +8,7 @@ The goal of this project was to analyze employee attrition patterns within an or
 ---
 
 **Key Metrics:**  
-- **Attrition Rate:** 16.1%  
+- **Attrition Rate:** 16.1%
 - **Total Employees:** 1,470  
 - **Total Attrition:** 237 employees  
 - **Average Age:** 37 years  
